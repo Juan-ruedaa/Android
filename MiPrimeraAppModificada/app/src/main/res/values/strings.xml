@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiPrimeraAppModificada</string>
+    <string name="textoBienvenida">Hola, soy Juan Rueda Morales y esta es una modificación de mi primera aplicación en Android</string>
+</resources>

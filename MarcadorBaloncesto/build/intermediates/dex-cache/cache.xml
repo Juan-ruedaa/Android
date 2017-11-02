@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/juan/AndroidStudioProjects/MarcadorBaloncesto/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d39fd46c37d61fdab332c86032f577b523aa4bb">
+        <dex dex="/home/juan/AndroidStudioProjects/MarcadorBaloncesto/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f91fbf1fb6dcd304e24bbd488da90d87dbcc2039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/AndroidStudioProjects/MarcadorBaloncesto/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/juan/AndroidStudioProjects/MarcadorBaloncesto/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_46e9d6859b190a94882e74a2b1a202febb921555/classes.dex" />
+    </item>
+
+</items>

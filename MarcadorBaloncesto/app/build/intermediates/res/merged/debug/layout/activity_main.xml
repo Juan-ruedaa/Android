@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="com.example.juan.marcadorbaloncesto.MainActivity">
+
+    <LinearLayout
+        android:layout_width="667dp"
+        android:layout_height="323dp"
+        android:weightSum="10"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/etiquetaLocal"
+                    android:layout_width="200dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center"
+                    android:textAlignment="center"
+                    android:layout_marginTop="30dp"
+                    android:padding="5dp"
+                    android:background="#0097A7"
+                    android:text="LOCAL"/>
+                <TextView
+                    android:id="@+id/puntosLocal"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:padding="5dp"
+                    android:textColor="#FFFFFF"
+                    android:textAlignment="center"
+                    android:textSize="70sp"
+                    android:text="00"
+                    android:background="#26C6DA"/>
+
+
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_gravity="center">
+
+                    <Button
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:id="@+id/masUnoLocal"
+                        android:text="+1"
+                        android:textSize="30sp"
+                        android:textColor="#FFFFFF"
+                        android:layout_margin="5dp"
+                        android:background="#0097A7"
+                        />
+
+                    <Button
+                        android:layout_width="120dp"
+                        android:layout_height="80dp"
+                        android:id="@+id/masDosLocal"
+                        android:layout_margin="5dp"
+                        android:text="+2"
+                        android:textSize="30sp"
+                        android:textColor="#FFFFFF"
+                        android:layout_toRightOf="@id/masUnoLocal"
+                        android:background="#0097A7"
+                        />
+
+                    <Button
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:id="@+id/masTresLocal"
+                        android:layout_margin="5dp"
+                        android:text="+3"
+                        android:textSize="30sp"
+                        android:textColor="#FFFFFF"
+                        android:layout_toRightOf="@id/masDosLocal"
+                        android:background="#0097A7"
+                        />
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:layout_margin="5dp">
+
+                    <Button
+                        android:layout_width="50dp"
+                        android:layout_height="30dp"
+                        android:id="@+id/menosUnoLocal"
+                        android:layout_marginRight="77dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:text="-1"
+                        android:textSize="10sp"
+                        android:textColor="#FFFFFF"
+                        android:background="#0097A7"
+                        />
+                    <Button
+                        android:layout_width="50dp"
+                        android:layout_height="30dp"
+                        android:id="@+id/reset"
+                        android:layout_margin="5dp"
+                        android:text="Reiniciar"
+                        android:textSize="8sp"
+                        android:layout_toEndOf="@+id/menosUnoLocal"
+                        android:textColor="#FFFFFF"
+                        android:background="#0097A7"
+                        />
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="5">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/etiquetaVisitante"
+                    android:layout_width="200dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="30dp"
+                    android:background="#0097A7"
+                    android:padding="5dp"
+                    android:text="VISITANTE"
+                    android:textAlignment="center" />
+
+                <TextView
+                    android:id="@+id/puntosVisitante"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="#26C6DA"
+                    android:textColor="#FFFFFF"
+                    android:padding="5dp"
+                    android:text="00"
+                    android:textAlignment="center"
+                    android:textSize="70sp" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp">
+
+                    <Button
+                        android:id="@+id/masUnoVisitante"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:background="#0097A7"
+                        android:text="+1"
+                        android:textColor="#FFFFFF"
+                        android:textSize="30sp" />
+
+                    <Button
+                        android:id="@+id/masDosVisitante"
+                        android:layout_width="120dp"
+                        android:layout_height="80dp"
+                        android:layout_margin="5dp"
+                        android:layout_toRightOf="@id/masUnoVisitante"
+                        android:background="#0097A7"
+                        android:text="+2"
+                        android:textColor="#FFFFFF"
+                        android:textSize="30sp" />
+
+                    <Button
+                        android:id="@+id/masTresVisitante"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:layout_margin="5dp"
+                        android:layout_toRightOf="@id/masDosVisitante"
+                        android:background="#0097A7"
+                        android:text="+3"
+                        android:textColor="#FFFFFF"
+                        android:textSize="30sp" />
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="193dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_margin="5dp">
+
+                    <Button
+                        android:id="@+id/end"
+                        android:layout_width="50dp"
+                        android:layout_height="30dp"
+                        android:layout_margin="5dp"
+                        android:background="#0097A7"
+                        android:text="Finalizar"
+                        android:textColor="#FFFFFF"
+                        android:textSize="8sp" />
+
+                    <Button
+                        android:id="@+id/menosUnoVisitante"
+                        android:layout_width="50dp"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:background="#0097A7"
+                        android:text="-1"
+                        android:textColor="#FFFFFF"
+                        android:textSize="10sp"
+                        android:layout_alignTop="@+id/end"
+                        android:layout_alignParentEnd="true"
+                        android:layout_marginEnd="8dp" />
+
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+        
+        
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

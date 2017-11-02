@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

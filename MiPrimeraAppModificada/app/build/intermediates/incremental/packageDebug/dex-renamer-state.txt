@@ -1,0 +1,7 @@
+#Wed Oct 11 09:19:16 CEST 2017
+base.0=/home/juan/AndroidStudioProjects/MiPrimeraAppModificada/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bdcbb94f48f5fe74cee1cb991d8a7d85d7966382
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/juan/AndroidStudioProjects/MiPrimeraAppModificada/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8346b36e5569c841c72c6cab11563e883de08a18/classes.dex
+base.1=/home/juan/AndroidStudioProjects/MiPrimeraAppModificada/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8346b36e5569c841c72c6cab11563e883de08a18
+file.0=/home/juan/AndroidStudioProjects/MiPrimeraAppModificada/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bdcbb94f48f5fe74cee1cb991d8a7d85d7966382/classes.dex

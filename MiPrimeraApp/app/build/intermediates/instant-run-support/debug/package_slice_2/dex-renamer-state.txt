@@ -1,0 +1,4 @@
+#Wed Oct 11 09:31:42 CEST 2017
+base.0=/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

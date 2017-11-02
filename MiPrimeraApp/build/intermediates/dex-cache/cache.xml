@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_c705c12c1efaadb9cdf8a67d229c9d3157883c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/446f5e4d21fd6e584d4892287d221ff2aba551ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_6a39a9b945c3e3a1c7bd3118f8013ffb30de471c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/ddf9872d55126a6105e6cfa17780789dcee5ca4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_9c8e2966e40ce3e4ec1321090e4aed39afe8d9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/631f3229c8f56d484bbfc9724dfb7a752a00fadd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_c0c9fd93d46a24e76080dc21d13e57226491c4c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/1b41db6204aade5bc51c4e81ef2b8f09278c8118/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_145ab01bdff60a4014ccc33454bf7114d87c1e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/19d48611be09fb1b873ddbea9665f1b135070950/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_35ecc29ce0c51e301ae025dad3eca467dbfbc129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/4417a0d70853bba9de856311cd2768feeba75e1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_9188d56105016d9caf3dcc139afee676c5c151bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_172bf8be835164dfc7ee75d177bab61f25eddee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/6f5e0205314a0cec930ec874d10a04b33c41d515/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_c6f3d209262b43f50541087a6caa26541acfb871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/0441405aa1a5a611684986d4ba64ec735ea94dac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_8eef2ffd3cd32e57cf5559eeb200a082c20b257b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/.android/build-cache/9a53061bf5be8f37febd76e334462488c8097edd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/classes_4808d29a4e77b6e5abd70833f404e957d99dbf66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ff19cb37ea87d74245900728cfe924d66e481217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a92f9a58598f4984e969aafe130d64169f0d80e">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6f30dbca2ad5c02dd36cf16bf2d3f69f57af8c7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/juan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/juan/AndroidStudioProjects/MiPrimeraApp/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_cc1e48202b0d7ac4633edea233caa2c7ad41ec30.jar" />
+    </item>
+
+</items>

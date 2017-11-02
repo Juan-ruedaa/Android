@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/juan/.android/build-cache/de6a65c4f3d0555fbdbce32efab1913aef30bf2b/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

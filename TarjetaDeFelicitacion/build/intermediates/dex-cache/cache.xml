@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cebdf9b6cd3de683f92205cf62b9ec82512944f3">
+        <dex dex="/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4c30ba89bf5711297b67acf58899aba20b08f8d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/juan/AndroidStudioProjects/TarjetaDeFelicitacion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_69962001f37e3e7f4cbd33a31b27bdce3afed0de/classes.dex" />
+    </item>
+
+</items>
